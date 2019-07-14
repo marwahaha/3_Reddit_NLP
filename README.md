@@ -53,7 +53,7 @@ ___
 ## Take-aways
 
 1. Hyperparameters matter
-    - The correct hyperparameters make a significant impact on the abilty of the model to properly fit the data. While all the data was text, the sources of that text made a difference as well. 
+    - The correct hyperparameters make a significant impact on the ability of the model to properly fit the data. While all the data was text, the sources of that text made a difference as well. 
 2. Different matters.
     - When I looked at the top predictors for the bikes vs ball regression, the top terms were very different and very unique to the subject matter, which goes quite a ways to explaining how I got a $R^2$-score of 1.0 on one of my models.
 3. Vectorizers didn't matter much
